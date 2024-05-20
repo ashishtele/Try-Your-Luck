@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "try your luck"
+version = "0.1.0"
+description = "Try your luck by filling the form"
+authors = ["Ashish Tele <sale.ashish.tele@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+selenium = "^4.21.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

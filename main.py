@@ -14,7 +14,7 @@ def browser_function():
     # Wait for the page to load
     chr_driver.implicitly_wait(10)
 
-    pin_input = chr_driver.find_element(By.ID, "QR~QID277") 
+    pin_input = chr_driver.find_element(By.ID, "QR~QID277")
 
     # Enter the PIN
     # Remove spaces before entering

@@ -1,6 +1,6 @@
 ## Try Your Luck
 
-Fill the data for Shop and Stop promotion
+Fill the data for Shop and Stop promotion. Using LLM to generate Selenium code.
 
 ```python
 python -m venv venv

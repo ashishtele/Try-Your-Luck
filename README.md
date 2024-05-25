@@ -1,4 +1,4 @@
-## Try Your Luck !!
+## Try Your Luck !
 
 Fill in the data for the Shop and Stop promotion. Using LLM to generate Selenium code.
 
